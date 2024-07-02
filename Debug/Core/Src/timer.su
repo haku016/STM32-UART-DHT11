@@ -1,0 +1,4 @@
+../Core/Src/timer.c:13:6:initTimer2	4	static
+../Core/Src/timer.c:19:6:delay_milli	24	static
+../Core/Src/timer.c:30:6:initTimer3	4	static
+../Core/Src/timer.c:36:6:delay_micro	24	static

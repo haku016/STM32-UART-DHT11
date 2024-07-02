@@ -1,0 +1,4 @@
+../Core/Src/uart.c:16:6:initUART	4	static
+../Core/Src/uart.c:37:6:sendChar	16	static
+../Core/Src/uart.c:44:6:sendString	16	static
+../Core/Src/uart.c:49:6:sendInteger	72	static
